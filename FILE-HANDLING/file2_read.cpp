@@ -23,7 +23,7 @@ int main(){
     c =  fin.get(); 
     }
 
-
+int n =223;
 fin.close();
 
     return 0;
