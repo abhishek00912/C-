@@ -1,0 +1,1 @@
+//show the only neccessary things to the user and hide the all that is called data abstraction 

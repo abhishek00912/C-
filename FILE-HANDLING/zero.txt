@@ -1,0 +1,2 @@
+original data
+2 13 14 45 45 
